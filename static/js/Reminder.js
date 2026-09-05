@@ -20,7 +20,7 @@ class Reminder{
 
     createReminderDiv(){
         /***
-         * This function create reminder div
+         * This function creates reminder div
          */
 
         // Create the element
@@ -85,7 +85,7 @@ class Reminder{
 
     createSubDiv() {
         /***
-         * This function create reminder sub div
+         * This function creates reminder sub div
          */
 
         // Create the element

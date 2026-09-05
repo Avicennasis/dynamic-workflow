@@ -23,7 +23,7 @@ class CarbonCopy{
 
     createCcDiv(){
         /***
-         * This function create cc div
+         * This function creates cc div
          */
 
         // Create the element

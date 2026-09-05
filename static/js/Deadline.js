@@ -26,7 +26,7 @@ class Deadline {
 
     createDeadlineDiv() {
         /***
-         * This function create deadline div
+         * This function creates deadline div
          */
 
         // Create the element
@@ -97,7 +97,7 @@ class Deadline {
 
     createSubDiv() {
         /***
-         * This function create deadline div
+         * This function creates deadline div
          */
 
         // Create the element
@@ -190,8 +190,8 @@ class Deadline {
 
     getDateFormat(date) {
         /***
-         * This function will formate the date for input
-         * @param {Date} date The date object we wish to formate
+         * This function will format the date for input
+         * @param {Date} date The date object we wish to format
          */
 
         // Create the day, month, and year variables

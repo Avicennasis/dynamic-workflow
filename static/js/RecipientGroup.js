@@ -25,7 +25,7 @@ class RecipientGroup {
 
   createRecipientDiv() {
     /***
-     * This function create recipient div
+     * This function creates recipient div
      */
 
     // Create the element
@@ -122,7 +122,7 @@ class RecipientGroup {
 
   createAdditionalRecipientInput(recipient_id) {
     /***
-     * This function add additions recipeints input
+     * This function adds additional recipients input
      */
 
     var add_div = document.createElement('div');
@@ -153,7 +153,7 @@ class RecipientGroup {
 
   appendNewParticipentInput(participent_id) {
     /***
-     * This functiuon appends a new recipient input
+     * This function appends a new recipient input
      */
 
     // Create a line break

@@ -25,7 +25,7 @@ class PassOption{
 
   createPassDiv(){
     /***
-     * This function create cc div
+     * This function creates cc div
      */
 
     // Create the element
@@ -104,7 +104,7 @@ class PassOption{
 
   createSubPassDiv(){
     /***
-     * This function create cc div
+     * This function creates cc div
      */
 
     // Create the element
@@ -219,7 +219,7 @@ class PassOption{
 
     // Add attributes
     label.className = "recipient_label error_msg";
-    label.innerHTML = "Password Requirment Not Met";
+    label.innerHTML = "Password Requirement Not Met";
     label.hidden = true;
 
     // Get divs for validations
